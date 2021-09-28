@@ -12,7 +12,7 @@ Activities: Dartmouth Outing Club (Vice President), Cabin and Trail leader
 On-Campus Jobs: Dartmouth Emergency Medical Services; Dartmouth Ski Patrol (Treasurer)
 
 ### The Thacher School, 2015 - 2019					               	         	                                Ojai, CA
-Graduated Cum Laude High Honors.
+Graduated Cum Laude High Honors. 
 Leadership: School Chair and Head of Judicial Council (2018-2019)
 Activities: Math Tutor; Accordion, Jazz Ensemble; Astronomy Research (collaboration with NASA 2019); B-Camper
 Awards: English Commendations (Spring 2016, 2018, 2019); Best Camper, School Chair Award, Cum Laude High Honors (2019)
