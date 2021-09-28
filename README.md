@@ -1,23 +1,23 @@
 
-Piper Frances Stacey
+# Piper Frances Stacey
 Home: San Francisco, CA
 Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755
 Intended Major: Computer Science modified with Biology (Pre-Medical Track)
 415.866.3544 | piper.23@dartmouth.edu
 
-Education
-Dartmouth College, 2019 - present                                                                 Hanover, NH
+## Education
+### Dartmouth College, 2019 - present                                                                 Hanover, NH
 Expected graduation: 2023. 
 Activities: Dartmouth Outing Club (Vice President), Cabin and Trail leader
 On-Campus Jobs: Dartmouth Emergency Medical Services; Dartmouth Ski Patrol (Treasurer)
 
-The Thacher School, 2015 - 2019					               	         	                                Ojai, CA
+### The Thacher School, 2015 - 2019					               	         	                                Ojai, CA
 Graduated Cum Laude High Honors.
 Leadership: School Chair and Head of Judicial Council (2018-2019)
 Activities: Math Tutor; Accordion, Jazz Ensemble; Astronomy Research (collaboration with NASA 2019); B-Camper
 Awards: English Commendations (Spring 2016, 2018, 2019); Best Camper, School Chair Award, Cum Laude High Honors (2019)
 
-Computer Science Languages:
+## Computer Science Languages:
 Python (self-taught): 					    Three years of research experience using Python 
 Coolest Project: Determining observability of alien megastructures within NASA data
 Java: 					                    Two years experience and worked as a TA for a Java-based class
@@ -27,7 +27,7 @@ Coolest Project: Rudimentary search engine
 Dart (self-taught, Flutter SKD): 	  6 months experience
 	Coolest Project: Mood Triggers App
 
-Work Experience
+## Work Experience
 Dartmouth Emergency Medical Services, First Responder, Present	                                   Hanover, NH
 Respond to on-campus emergencies on Friday and Saturday nights
 Computer Science 10, Teaching Assistant, Spring 2020 & Present	                                   Online and in Hanover, NH
@@ -48,11 +48,11 @@ Volunteered in Radiology, Patient Comfort, Gift Shop
 Area 120, Google - Tailor, Winter 2017, Summer 2018                                  	             San Francisco, CA
 Ops specialist in backend purchasing to gain profitability
 
-Publications:
+## Publications:
 Image Calibration Using Rotated Far Field Flats, abstract presented at 233rd AAS (Seattle, 2019)
 Is it Possible to Observe Megastructures within Transiting Exoplanet Survey Satellite (TESS) Data?, presented at TechnoClimes (Online, 2020)
 
-Certifications: 
+## Certifications: 
 Nationally Registered Emergency Medical Technician
 National Ski Patrol Outdoor Emergency Care Technician
 CPR certified
