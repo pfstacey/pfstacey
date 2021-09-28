@@ -17,7 +17,7 @@ Leadership: School Chair and Head of Judicial Council (2018-2019)
 Activities: Math Tutor; Accordion, Jazz Ensemble; Astronomy Research (collaboration with NASA 2019); B-Camper
 Awards: English Commendations (Spring 2016, 2018, 2019); Best Camper, School Chair Award, Cum Laude High Honors (2019)
 
-Computer Science Languages
+Computer Science Languages:
 Python (self-taught): 					    Three years of research experience using Python 
 Coolest Project: Determining observability of alien megastructures within NASA data
 Java: 					                    Two years experience and worked as a TA for a Java-based class
