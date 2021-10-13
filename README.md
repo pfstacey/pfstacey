@@ -1,15 +1,15 @@
 
 # Piper Frances Stacey
-Home: San Francisco, CA
-Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755
-Intended Major: Computer Science modified with Biology (Pre-Medical Track)
-415.866.3544 | piper.23@dartmouth.edu
+Home: San Francisco, CA<br/>
+Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755<br/>
+Intended Major: Computer Science modified with Biology (Pre-Medical Track)<br/>
+415.866.3544 | piper.23@dartmouth.edu<br/>
 
 ## Education
 ### Dartmouth College, 2019 - present                                                                 Hanover, NH
-Expected graduation: 2023. 
-Activities: Dartmouth Outing Club (Vice President), Cabin and Trail leader
-On-Campus Jobs: Dartmouth Emergency Medical Services; Dartmouth Ski Patrol (Treasurer)
+Expected graduation: 2023.<br/>
+Activities: Dartmouth Outing Club (Vice President), Cabin and Trail leader<br/>
+On-Campus Jobs: Dartmouth Emergency Medical Services; Dartmouth Ski Patrol (Treasurer)<br/>
 
 ### The Thacher School, 2015 - 2019					               	         	                                Ojai, CA
 Graduated Cum Laude High Honors. 
