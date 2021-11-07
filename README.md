@@ -3,7 +3,7 @@
 Home: San Francisco, CA<br/>
 Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755<br/>
 Intended Major: Computer Science modified with Biology (Pre-Medical Track)<br/>
-415.866.3544 | piper.23@dartmouth.edu<br/>
+415.866.3544 | piper.23@dartmouth.edu | she/hers<br/>
 
 ## Education
 ### Dartmouth College, Sept 2019 - present ~ Hanover, NH
