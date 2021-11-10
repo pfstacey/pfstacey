@@ -39,7 +39,7 @@ Ops specialist in backend purchasing to gain profitability
 
 ## Computer Science Languages
 ### Python (self-taught): Six years of research experience using Python 
-Coolest Project: Multiple ground up machine learning algorithms (no PyTorch)
+Coolest Project: Multiple ground up machine learning algorithms
 ### Java: Two years experience and working as a TA for a Java-based class
 Coolest Project: Enigma Machine or machine learning to analyze parts of speech in a sentence
 ### C: One term of experience
