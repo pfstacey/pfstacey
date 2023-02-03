@@ -7,9 +7,10 @@ Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755<br/>
 ## Education
 ### Dartmouth College, Sept 2019 - present ~ Hanover, NH
 #### Major: Computer Science modified with Biology (pre-medical track)
-Expected graduation: 2023. <br/>
-Activities: Dartmouth Outing Club (Vice President), Women in Computer Science, Womxn’s Ultimate Frisbee, Cabin and Trail (leader), Accordionist for “Microsoft Paint Shark” (on-campus band)<br/>
-On-Campus Jobs: Computer Science Teaching Assistant; Research at the Geisel School of Medicine; Dartmouth Emergency Medical Services; Dartmouth Ski Patrol<br/>
+#### Thesis: Exploring passive sensing solutions to diagnosing and treating mental health in adolescents 
+Expected graduation: 2023 <br/>
+Activities: Dartmouth Outing Club (President), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Women in Computer Science <br/>
+On-Campus Jobs: Dartmouth Emergency Medical Services (EMT); Dartmouth Ski Patrol <br/>
 
 ### The Thacher School, 2015 - 2019 ~ Ojai, CA
 Graduated Cum Laude.<br/>
