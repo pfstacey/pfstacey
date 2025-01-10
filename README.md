@@ -1,16 +1,19 @@
 
 # Piper Frances Stacey
-Home: San Francisco, CA<br/>
-Address: 4551 Hinman, Dartmouth College, Hanover, NH, 03755<br/>
-415.866.3544 | piper.f.stacey.23@dartmouth.edu | she/hers<br/>
+415.866.3544 | piper.stacey@umassmed.edu | she/hers<br/>
 
 ## Education
-### Dartmouth College, Sept 2019 - present ~ Hanover, NH
-#### Major: Computer Science modified with Biology (pre-medical track)
-#### Thesis: Exploring passive sensing solutions to diagnosing and treating mental health in adolescents 
-Expected graduation: 2023 <br/>
-Activities: Dartmouth Outing Club (President), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Women in Computer Science <br/>
-On-Campus Jobs: Dartmouth Emergency Medical Services (EMT); Dartmouth Ski Patrol <br/>
+### University of Massachusetts Chan School of Medicine, Aug 2024 - June 2028 (expected)	             Worcester, MA
+#### LEAD@Lahey Track: purpose-driven physician leaders transforming healthcare
+#### Founder of the Lahey Surgery Interest Group
+#### Elective Courses: Global Health; Treating the Athlete; Sidekicks partnership with pediatric patients fighting life-threatening illnesses
+Specialty Interest: Surgery <br/>
+
+
+### Dartmouth College, Sept 2019 - June 2023, Graduated with High Honors in Computer Science ~ Hanover, NH
+#### Major: Computer Science Modified with Biology
+#### Activities: Dartmouth Outing Club (President), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Dartmouth Triathlon, Women’s Ultimate Frisbee
+Awards: Outdoor Service Award (2023)<br/>
 
 ### The Thacher School, 2015 - 2019 ~ Ojai, CA
 Graduated Cum Laude.<br/>
