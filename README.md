@@ -10,8 +10,9 @@
 Specialty Interest: Surgery <br/>
 
 
-### Dartmouth College, Sept 2019 - June 2023, Graduated with High Honors in Computer Science ~ Hanover, NH
+### Dartmouth College, Sept 2019 - June 2023 ~ Hanover, NH
 #### Major: Computer Science Modified with Biology
+Graduated with High Honors in Computer Science
 #### Activities: Dartmouth Outing Club (President), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Dartmouth Triathlon, Women’s Ultimate Frisbee
 Awards: Outdoor Service Award (2023)<br/>
 
