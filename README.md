@@ -12,8 +12,8 @@ Specialty Interest: Surgery <br/>
 
 ### Dartmouth College, Sept 2019 - June 2023 ~ Hanover, NH
 #### Major: Computer Science Modified with Biology
-Graduated with High Honors in Computer Science
-#### Activities: Dartmouth Outing Club (President), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Dartmouth Triathlon, Women’s Ultimate Frisbee
+Graduated with High Honors in Computer Science<br/>
+Activities: Dartmouth Outing Club (President), Dartmouth Ski Patrol (Shift Supervisor), Cabin and Trail (Leader), Winter Sports Club for backcountry skiing (Level II Leader), Ledyard Canoe Club (Leader), Dartmouth Triathlon, Women’s Ultimate Frisbee<br/>
 Awards: Outdoor Service Award (2023)<br/>
 
 ### The Thacher School, 2015 - 2019 ~ Ojai, CA
